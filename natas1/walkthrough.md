@@ -1,12 +1,12 @@
 # Natas 1 Walkthrough
+
 ## Objective
 Find the password of the level 
 
 ## Approach 
-Inspect the web page using right click the page then inspect 
+Since you can't inspect the page with right click instead you should do ctrl + shift c to open dev tools 
 
 ## Observe
-Observe the html page then expand the body 
+Observe the html page then expand the body element then , edit with html and then you can access the password for Natas 2
 
-## Solution 
 Congrats you got the solution 

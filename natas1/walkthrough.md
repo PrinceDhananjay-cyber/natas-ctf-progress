@@ -1,6 +1,6 @@
 # Natas 1 Walkthrough
 ## Interface
-![Natas 1 Interface](images/interface.png)
+![Natas 1 Interface](images/Interface.png)
 
 ### Objective
 Find the password of the level 

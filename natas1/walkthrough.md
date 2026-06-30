@@ -7,7 +7,7 @@ Find the password of the level
 
 ### Approach 
 Since you can't inspect the page with right click instead you should do ctrl + shift + c to open dev tools
-![Natas 1 Devtool](images/image.png)
+![Natas 1 Devtool](images/Devtools.png)
 
 
 ### Observe

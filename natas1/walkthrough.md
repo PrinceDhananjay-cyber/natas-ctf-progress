@@ -1,4 +1,4 @@
-### Natas 1 Walkthrough
+# Natas 1 Walkthrough
 ## Objective
 Find the password of the level 
 

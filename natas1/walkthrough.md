@@ -11,6 +11,6 @@ Since you can't inspect the page with right click instead you should do ctrl + s
 
 
 ### Observe
-Observe the html page then expand the body element then , edit with html and then you can access the password for Natas 2
+Observe the html page then expand the body element you should get one more div container expand that then right click on that comment edit with html and then you can access the password for Natas 2
 
 Congrats you got the solution 

@@ -11,6 +11,7 @@ Everything is not in the webpage
 
 ## How to do it ?
 1.First login to natas 2 and get on the page 
+![Natas2 webpage](images/webpage.png)
 
 2.Right click on that page 
 

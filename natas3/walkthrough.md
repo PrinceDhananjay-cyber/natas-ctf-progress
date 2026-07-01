@@ -13,12 +13,15 @@ We have to find the password that is not in this page
 
 ### Type the url 
 * Type this url on browser
+![Natas 3 webpage](images/robots.txt.png)
 
 ### Url
-* Type this url to go to that directory 
+* Type this url to go to that directory
+![Natas 3 webpage](images/s3r3t.png) 
 
 ### Navigate
 * Navigate to users.txt
+![Natas 3 webpage](images/Natas3_users.txt.png)
 
 ### Solution 
 * Copy that natas 4 password to login to next level 

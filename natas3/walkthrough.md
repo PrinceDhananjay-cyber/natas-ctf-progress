@@ -1,1 +1,23 @@
+# Natas 3 Walkthrough
+## Overview
+In this level there is no Hint not even the solution is there on the page
 
+## Objective 
+We have to find the password that is not in this page
+
+## Steps
+
+### Login
+Log in to natas3 with the url of http://natas3.natas.labs.overthewire.org
+
+### Type the url 
+Type this url on browser 
+
+### Url
+Type this url to go to that directory 
+
+### Navigate
+Navigate to users.txt
+
+### Solution 
+Copy that natas 4 password to login to next level 

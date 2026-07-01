@@ -9,7 +9,7 @@ We have to find the password that is not in this page
 
 ### Login
 * Log in to natas3 with the url of http://natas3.natas.labs.overthewire.org
-![Natas 3 webpage](images/Natas3_webpage.png)
+![Natas 3 webpage](images/Natas3_Webpage.png)
 
 ### Type the url 
 * Type this url on browser

@@ -12,8 +12,8 @@ We have to find the password that is not in this page
 ![Natas 3 webpage](images/Natas3_Webpage.png)
 
 ### Type the url 
-* Type this url on browser
-![Natas 3 url](images/robots.txt.png)
+* Type this url on browse
+* ![Natas 3 url](images/robots.txt.png)
 
 ### Url
 * Type this url to go to that directory
